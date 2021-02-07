@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Vorlage Förderverein"
+date:   2021-02-07 13:51:11 +0100
+categories: ankündigung update
+---
+Ankündigungen müssen im `_posts` Verzeichnis abgelegt werden.
+Das Format muss folgendes sein `YEAR-MONTH-DAY-title.MARKUP`
+
+z.B. `2021-02-07-vorlage.markdown`.
