@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Books about Product Management and UX"
+date:   2024-07-06 13:51:11 +0100
+categories: books
+---
+
+A list of books for the topics of UX and Product Management.
+
+- Martin Eriksson: Product Leadership: How Top Product Managers Create and Launch Successful Products Must Read.
+- Jeff Patton - User Story Mapping
+- Marty Cagan - Empowered und Inspired
+- Jake Knapp - Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days Product Mgmt / UX.
+- Jeff Gothelf - Lean UX Product Mgmt / UX
+- Roman Pichler - Strategize Product Strategy and Product Roadmap for the digital age

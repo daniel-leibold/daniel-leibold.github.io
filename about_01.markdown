@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Kontakte
-permalink: /kontakte/
+title: Links
+permalink: /links/
 ---
 
-Kontakte etc
+Helpful links & references

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Über uns
-permalink: /ueberuns/
+title: About me
+permalink: /aboutme/
 ---
 
 
-Hier stehen Infos zum Förderverein!
+My name is Daniel Leibold. Learn more about me [here](https://registry.jsonresume.org/daniel-leibold).

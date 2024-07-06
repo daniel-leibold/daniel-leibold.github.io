@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Förderverein
-email: de_neuss-email@example.com
+title: Thoughts and Projects
+email: leibold.daniel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Der Föderverein Neuss-Allerheiligen hat ganz gut Zwecke. 
-  Diese Seite soll verwirrten Eltern helfen mehr Informationen zur Kita, Elternvertretung und den Personen zu erhalten.
+  This is my personal site. 
+  I use it to document my projects and share my thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
